@@ -1,0 +1,8 @@
+{
+  "name": "myAppsidemenu",
+  "app_id": "6671584b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
